@@ -1,0 +1,78 @@
+地-地図,ちず,map; atlas; chart; plan
+地下鉄,ちかてつ,subway; metro; underground (railway)
+地震,じしん,earthquake
+
+球-地球,ちきゅう,Earth; the globe
+電球,でんきゅう,light bulb
+玉,たま,ball; sphere; globe; orb
+
+儀-儀式,ぎしき,ceremony; rite; ritual; service
+礼儀,れいぎ,manners; courtesy; etiquette
+行儀,ぎょうぎ,manners; behavior; behaviour
+
+回-周り,まわ,circumference; girth
+回転,かいてん,rotation; revolution; turn; spin
+回り道,まわみち,detour; circuitous route; diversion
+
+世-世界,せかい,the world; society; the universe
+世紀,せいき,century
+店,みせ,store; shop; establishment; restaurant
+
+界-世界,せかい,the world; society; the universe
+国境,こっきょう,border (between countries); national border
+限界,げんかい,limit; bound
+
+周-周り,まわ,circumference; girth
+周囲,しゅうい,surroundings; environs
+慌てる,あわ,to become confused (disconcerted, disorganized, disorganised); to be flustered; to panic
+
+旅-旅行,りょこう,travel; trip; journey; excursion; tour
+旅館,りょかん,ryokan; traditional Japanese inn
+旅客,りょかく,passenger
+
+行-旅行,りょこう,travel; trip; journey; excursion; tour
+飛行機,ひこうき,aeroplane; airplane; aircraft
+銀行,ぎんこう,bank; banking institution
+
+瞳-瞳,ひとみ,pupil (of the eye)
+
+
+光-光,ひかり,light
+観光,かんこう,sightseeing; tourism
+光線,こうせん,beam; light ray
+
+側-両側,りょうがわ,both sides
+傍ら,かたわ,side; edge; beside; besides; nearby
+側面,そくめん,side; flank; profile; sidelight; lateral
+
+忍-忍耐,にんたい,endurance; perseverance; patience
+忍ぶ,しの,to conceal oneself; to hide
+
+寄-寄付,きふ,contribution; donation
+年寄り,としよ,old person; elderly person; senior citizen
+寄る,よ,to approach; to draw near; to come near; to be close to
+
+影-影,かげ,shadow; silhouette; figure; shape
+撮影,さつえい,photography (still or motion); photographing; filming; shooting; (video) recording
+影響,えいきょう,influence; effect; impact
+
+法-法律,ほうりつ,law
+文法,ぶんぽう,grammar
+憲法,けんぽう,constitution
+
+師-医師,いし,doctor; physician
+漁師,りょうし,fisherman
+牧師,ぼくし,pastor; minister; clergyman; reverend
+
+昨-昨日,きのう,yesterday
+夕べ,ゆう,evening
+一昨年,おととし,year before last
+
+日-毎日,まいにち,every day
+火曜日,かようび,Tuesday
+日曜日,にちようび,Sunday
+
+雨-雨,あめ,rain
+梅雨,つゆ,(East Asian) rainy season (in Japan, usu. from early June to mid-July)
+雨戸,あまど,sliding storm shutter
+
